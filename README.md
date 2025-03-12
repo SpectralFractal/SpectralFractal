@@ -1,6 +1,6 @@
 # 🏴‍☠️ SpectralFractal </br>
 
-
+[![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/SpectralFractal.png" alt="Your Image Badge" />)](https://tryhackme.com/p/SpectralFractal)
 
 ### 👋 Welcome to My Digital Lair  </br>
 
