@@ -1,6 +1,6 @@
 # 🏴‍☠️ SpectralFractal </br>
 
-![TryHackMe Badge](src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3580228")
+
 
 ### 👋 Welcome to My Digital Lair  </br>
 
