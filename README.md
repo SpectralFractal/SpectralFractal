@@ -1,4 +1,5 @@
 # 🏴‍☠️ SpectralFractal </br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3580228" style='border:none;'></iframe>
 
 ### 👋 Welcome to My Digital Lair  </br>
 
