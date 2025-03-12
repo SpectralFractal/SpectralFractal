@@ -24,7 +24,7 @@
 ## 🤝 Let's Connect  </br>
 
 - 📩 Reach me through GitHub Issues or Discussions  </br>
-- 🧕‍♂️ Always open to collaboration on security-related projects  </br>
+- Always open to collaboration on security-related projects  </br>
 
 💀 **Hack the planet, but ethically.** 💀</br>
 
