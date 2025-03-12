@@ -1,45 +1,33 @@
 # 🏴‍☠️ SpectralFractal </br>
 
-```
 ### 👋 Welcome to My Digital Lair  </br>
-```
 
-```
 ## 🔥 Who Am I?  </br>
-```
+
 - 🛠️ System Administrator by day, Cybersecurity Enthusiast by night  </br>
 - 🎮 Red Team mindset, White Hat ethics  </br>
 - 💻 Linux evangelist, advocate for FOSS  </br>
 - ☁️ Cloud Security Explorer (Azure, Terraform, Bicep)  </br>
-```
 
-```
 ## 📚 Currently Learning  </br>
-```
+
 - 🐍 Python & Bash scripting for automation and security  </br>
 - 🔑 C/C++ for low-level hacking and exploit development  </br>
 - 🔐 Red Team tactics, threat hunting, and ethical hacking  </br>
-```
 
-```
 ## 🚀 Interests  </br>
-```
+
 - ☠️ Penetration Testing & Offensive Security  </br>
 - 🏴‍☠️ Linux Hardening & System Security  </br>
 - 🔭 Always hacking, always learning  </br>
-```
 
-```
 ## 🤝 Let's Connect  </br>
-```
+
 - 📩 Reach me through GitHub Issues or Discussions  </br>
 - 🧕‍♂️ Always open to collaboration on security-related projects  </br>
-```
-
----
 
 💀 **Hack the planet, but ethically.** 💀</br>
-```
+
 
 
 # 💻 Tech Stack:
